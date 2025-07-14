@@ -13,13 +13,13 @@
   Always happy to connect, share ideas, or chat about tech and development!
 </h3>
 
-
-
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=orantebi.orantebi&left_text=Profile%20views"  />
 </div>
+
+---
 
 ###
 
@@ -98,12 +98,11 @@
 
 ###
 
-<h2 align="left">📊 Most Used Languages</h2>
-
-###
+<h2 align="left">📊 GitHub Insights</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orantebi&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=OrAntebi&theme=default&hide_border=false" alt="stats" style="height: 170px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orantebi&layout=compact&theme=default" alt="Top Langs" style="height: 170px;" />
 </div>
 
 

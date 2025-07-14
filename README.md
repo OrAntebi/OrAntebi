@@ -4,16 +4,13 @@
   </a>
 </div>
 
-###
-
 <h3 align="center">
-  Hi, I'm Or Antebi!<br>
-  Frontend & Full-Stack Developer passionate about building modern and user-friendly web applications.<br>
-  I enjoy creating clean, efficient, and responsive interfaces using the latest technologies.<br>
-  Always happy to connect, share ideas, or chat about tech and development!
+  Hi, I'm Or Antebi — Frontend & Full-Stack Developer.<br>
+  I specialize in building modern, responsive web applications<br>
+  using React, Node.js, and other cutting-edge technologies.<br>
+  Passionate about clean code, great UI/UX, and continuous learning.<br>
+  Always happy to connect, collaborate, and share ideas!
 </h3>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/orantebi/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" /></a>
@@ -23,11 +20,7 @@
 
 ---
 
-###
-
 <h2 align="left">💻 Tech Stack</h2>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
@@ -58,8 +51,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
 </div>
 
-###
-
 <h2 align="left">🚀 Featured Project</h2>
 
 <p align="left">
@@ -76,8 +67,6 @@
   &nbsp;
   <a href="https://github.com/OrAntebi/Finderr-Backend" target="_blank"><img src="https://img.shields.io/badge/Finderr%20Backend-Repository-blue?style=for-the-badge&logo=github" height="40" /></a>
 </div>
-
-###
 
 <h2 align="left">📊 GitHub Insights</h2>
 

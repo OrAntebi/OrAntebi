@@ -6,7 +6,14 @@
 
 ###
 
-<h3 align="center">Feel free to take a look at my repositories.<br>connect with me if you'd like to chat about technology, life, or anything in between.</h3>
+<h3 align="center">
+  Hi, I'm Or Antebi!<br>
+  Frontend & Full-Stack Developer passionate about building modern and user-friendly web applications.<br>
+  I enjoy creating clean, efficient, and responsive interfaces using the latest technologies.<br>
+  Always happy to connect, share ideas, or chat about tech and development!
+</h3>
+
+
 
 ###
 
@@ -16,7 +23,7 @@
 
 ###
 
-<h2 align="left">🌐 Socials</h2>
+<h2 align="left">📫 How to reach me</h2>
 
 ###
 
@@ -88,3 +95,15 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
 </div>
+
+###
+
+<h2 align="left">📊 Most Used Languages</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orantebi&layout=compact&theme=dark" alt="Top Langs" />
+</div>
+
+

@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="left">📫 How to reach me</h2>
+<h2 align="left">📫 How To Reach Me</h2>
 
 ###
 
